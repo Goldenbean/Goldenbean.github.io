@@ -1,2 +1,3 @@
 # goldenbean.github.io
-blog
+
+博客 blog
