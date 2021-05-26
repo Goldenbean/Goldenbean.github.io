@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on My Blog</title>
+    <link>https://goldenbean.github.io/posts/</link>
+    <description>Recent content in Posts on My Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 26 May 2021 11:13:57 +0800</lastBuildDate><atom:link href="https://goldenbean.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Post</title>
+      <link>https://goldenbean.github.io/posts/my-first-post/</link>
+      <pubDate>Wed, 26 May 2021 11:13:57 +0800</pubDate>
+      
+      <guid>https://goldenbean.github.io/posts/my-first-post/</guid>
+      <description>Hugo Blog  https://gohugo.io/getting-started/quick-start/ https://gohugo.io/hosting-and-deployment/hosting-on-github/ https://cjolowicz.github.io/posts/hosting-a-hugo-blog-on-github-pages-with-travis-ci/  Remove a submodule you need to:  Delete the relevant section from the .gitmodules file. Stage the .gitmodules changes git add .gitmodules Delete the relevant section from .git/config. Run git rm &amp;ndash;cached path_to_submodule (no trailing slash). Run rm -rf .git/modules/path_to_submodule (no trailing slash). Commit git commit -m &amp;ldquo;Removed submodule &amp;quot; Delete the now untracked submodule files rm -rf path_to_submodule  </description>
+    </item>
+    
+  </channel>
+</rss>
